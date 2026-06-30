@@ -1,5 +1,6 @@
 # VS Code 개인 설정 및 빌드 작업 제외
 .vscode/tasks.json
+.vscode/launch.json
 
 # Prerequisites
 *.d
